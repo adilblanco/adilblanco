@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<img src="https://user-images.githubusercontent.com/6373098/162155178-214b4b19-cbe1-44c5-8df0-277328981a03.gif" width="900" height="400" />
-
 <!--
 **adilblanco/adilblanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
