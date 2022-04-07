@@ -11,6 +11,7 @@ spec:
   - airflow
   - python
   - spark
+  - sql
 favorites:
   number: 13
   animal: 🐶
