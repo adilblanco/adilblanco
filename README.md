@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Dino_non-birthday_version](https://user-images.githubusercontent.com/6373098/162151102-eef30ff4-5da1-4320-8618-5a7942e17e34.gif)
+![Dino_non-birthday_version](https://user-images.githubusercontent.com/6373098/162151102-eef30ff4-5da1-4320-8618-5a7942e17e34.gif width="250" height="250")
 
 <!--
 **adilblanco/adilblanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
