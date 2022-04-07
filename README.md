@@ -5,9 +5,9 @@ apiVersion: v3
 kind: Human
 metadata:
   name: Adil Blanco
-  job: Developer
   location: Montreal
-skills:
+  job: Developer
+spec:
   - Python
   - k8s
 favorites:
