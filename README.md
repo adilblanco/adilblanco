@@ -9,7 +9,6 @@ metadata:
   location: Montreal
 skills:
   - Python
-  - SQL
   - k8s
 favorites:
   number: 13
