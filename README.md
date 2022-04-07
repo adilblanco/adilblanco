@@ -1,22 +1,5 @@
 ### Hi there 👋
 
-```yaml
-apiVersion: v3
-kind: human
-metadata:
-  name: adil blanco
-  location: montreal
-  job: developer
-spec:
-  - airflow
-  - python
-  - spark
-  - sql
-favorites:
-  number: 13
-  animal: 🐶
-```
-
 <!--
 **adilblanco/adilblanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
