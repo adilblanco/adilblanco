@@ -2,14 +2,15 @@
 
 ```yaml
 apiVersion: v3
-kind: Human
+kind: human
 metadata:
-  name: Adil Blanco
-  location: Montreal
-  job: Developer
+  name: adil blanco
+  location: montreal
+  job: developer
 spec:
-  - Python
-  - k8s
+  - airflow
+  - python
+  - spark
 favorites:
   number: 13
   animal: 🐶
